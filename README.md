@@ -1,16 +1,21 @@
-# EDA_On_Salaries_data
+# Data_Analysis_On_USA_Flights_Data
 
-Implement Exploratory Data Analysis on a data containing jobs and salaries e.t.c, by cleaning the data, transforming it and performing visualization to gain insights on it.
+implement Exploratory Data Analysis on 2008 USA flights data by cleaning the data, transforming the data and performing visualization to gain insights on it.
 
-# Language
+## Language
 Python
 
-# Libraries
-pandas
+## Libaries
+Numpy
 
-matplotlib
+Pandas
 
-# Files contained on the repository
-A notebook containing cells of python code
+Seabon
 
-The dataset in a csv format stored on an AWS s3 bucket.
+Matplotlib
+
+## Dataset
+
+The dataset in a csv format stored on
+
+<a href="https://github-data-bucket.s3.amazonaws.com/USA_flights_data.csv.bz2" rel="nofollow">AWS s3 bucket</a>
